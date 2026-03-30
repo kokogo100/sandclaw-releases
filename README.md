@@ -2,7 +2,15 @@
 
 **AI-Powered Trading Desktop IDE** &nbsp; ![beta](https://img.shields.io/badge/v0.9.0-beta-orange)
 
-> **Beta Release** — Some features may have bugs. Please report issues via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues).
+> **Beta Release** = Some features may have bugs. Please report issues via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues).
+
+### Important Notice
+
+- **Free to use.** No deposits, no withdrawals, no fees.
+- **Your funds stay with your broker.** SandClaw connects directly to broker APIs via plugins. We never hold or access your money.
+- **No investment advice.** SandClaw does not provide investment recommendations or financial advice. It is delivered as a complete blank slate, adapting to your own analysis and judgment.
+- **AI starts from zero.** The AI has no preloaded opinions. It learns from your conversations and builds memory over time.
+- **Open plugin ecosystem.** Connect to 30+ brokers (LS Securities, IBKR, Kraken, Upbit, etc.) through installable plugins.
 
 ---
 
@@ -18,8 +26,8 @@
 
 1. **Download** the installer above
 2. **Run** `SandClaw_0.9.0_x64-setup.exe` and follow the setup wizard
-3. **Python Setup** — the app automatically installs the Python environment on first launch
-4. **Login** — sign in with GitHub or Discord
+3. **Python Setup** = the app automatically installs the Python environment on first launch
+4. **Login** = sign in with GitHub or Discord
 
 ---
 
@@ -303,7 +311,7 @@ Securely stores API keys with encryption in the credential vault.
 
 ## Links
 
-- [Plugin Registry](https://github.com/kokogo100/sandclaw) — 30+ broker plugins
+- [Plugin Registry](https://github.com/kokogo100/sandclaw), 30+ broker plugins
 - [Community & News](https://algoballoon.com)
 - [MCP Server & API](https://ragalgo.com)
 
