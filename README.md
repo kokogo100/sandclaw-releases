@@ -13,6 +13,7 @@
 - **No investment advice.** SandClaw does not provide investment recommendations or financial advice. It is delivered as a complete blank slate, adapting to your own analysis and judgment.
 - **AI starts from zero.** The AI has no preloaded opinions. It learns from your conversations and builds memory over time.
 - **Open plugin ecosystem.** Connect to 30+ brokers (LS Securities, IBKR, Kraken, Upbit, etc.) through installable plugins.
+- **Community-driven plugins.** Request a broker plugin via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues). When enough users request it, we build it.
 
 ---
 
