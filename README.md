@@ -27,6 +27,8 @@
 
 ### Main View
 
+![Main View](images/Main%20View.png)
+
 <details>
 <summary><strong>1. Strategy List</strong></summary>
 List of active strategies. Select the strategy to run using the radio button.
@@ -116,6 +118,8 @@ Indicates REST API mode or WebSocket mode based on the broker connection method.
 
 ### Settings
 
+![Settings](images/Settings.png)
+
 <details>
 <summary><strong>1. Trading Tab</strong></summary>
 Configure order type (market/limit), buy/sell ratio, and duplicate purchase prevention.
@@ -155,6 +159,8 @@ Monitor system resources (CPU, Memory, Disk) in real time. Database schema manag
 
 ### AI Manager
 
+![AI Manager](images/AI%20Manager.png)
+
 <details>
 <summary><strong>1. Configuration</strong></summary>
 Toggle AI Co-Pilot ON/OFF, select AI Provider (Claude/GPT/Gemini), enter API key, and choose model.
@@ -184,6 +190,8 @@ Save and select trading decision prompts for auto-trading.
 
 ### AI Commander
 
+![AI Commander](images/AI%20Commander.png)
+
 <details>
 <summary><strong>1. Automation</strong></summary>
 Detailed auto-trading settings. Manage Trading Mode, Safety Intercept, Daily Trading Limit.
@@ -212,6 +220,8 @@ Configure the interval at which AI autonomously organizes memory and generates i
 ---
 
 ### Start Engine
+
+![Start Engine](images/Start%20Engine.png)
 
 <details>
 <summary><strong>1. Trading Settings</strong></summary>
@@ -246,6 +256,8 @@ Toggle AI analysis ON/OFF and set the rescan interval (15 min ~ 3 hours).
 ---
 
 ### Plugin Store
+
+![Plugin Store](images/Plugin%20Store.png)
 
 <details>
 <summary><strong>1. Official Store / My Plugins</strong></summary>
