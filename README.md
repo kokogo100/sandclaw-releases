@@ -19,9 +19,11 @@
 
 ## Download
 
-| Version | Windows (x64) | Release Notes |
-|---------|--------------|---------------|
-| v0.9.0-beta | [SandClaw_0.9.0_x64-setup.exe](https://github.com/kokogo100/sandclaw-releases/releases/download/v0.9.0/SandClaw_0.9.0_x64-setup.exe) | [Release Notes](https://github.com/kokogo100/sandclaw-releases/releases/tag/v0.9.0) |
+| Version | Windows (x64) | macOS | Release Notes |
+|---------|--------------|-------|---------------|
+| v0.9.0-beta | [SandClaw_0.9.0_x64-setup.exe](https://github.com/kokogo100/sandclaw-releases/releases/download/v0.9.0/SandClaw_0.9.0_x64-setup.exe) | Coming soon | [Release Notes](https://github.com/kokogo100/sandclaw-releases/releases/tag/v0.9.0) |
+
+> macOS version will be added when there is sufficient user demand. Request via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues).
 
 ---
 
