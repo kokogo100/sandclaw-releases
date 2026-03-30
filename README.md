@@ -1,5 +1,7 @@
 # SandClaw
 
+### *Raise your own AI trader from scratch.*
+
 **AI-Powered Trading Desktop IDE** &nbsp; ![beta](https://img.shields.io/badge/v0.9.0-beta-orange)
 
 > **Beta Release** = Some features may have bugs. Please report issues via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues).
