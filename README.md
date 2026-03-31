@@ -27,6 +27,18 @@
 
 ---
 
+### ⚠️ Windows SmartScreen Notice
+
+When you run the installer for the first time, Windows may show a **blue or red SmartScreen warning**.
+This is normal for new applications without a paid code signing certificate (~$300/year).
+
+1. Click **"More info"** (추가 정보)
+2. Click **"Run anyway"** (실행)
+
+> SandClaw is open source. You can verify the code at [GitHub](https://github.com/kokogo100/sandclaw).
+
+---
+
 ## Installation
 
 1. **Download** the installer above
