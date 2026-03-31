@@ -14,6 +14,7 @@
 - **AI starts from zero.** The AI has no preloaded opinions. It learns from your conversations and builds memory over time.
 - **Open plugin ecosystem.** Connect to 30+ brokers (LS Securities, IBKR, Kraken, Upbit, etc.) through installable plugins.
 - **Community-driven plugins.** Request a broker plugin via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues). When enough users request it, we build it.
+- **No built-in charts.** SandClaw is designed to work alongside your broker. Use your broker's charts and tools for technical analysis. SandClaw handles AI strategy, automation, and execution.
 
 ---
 
