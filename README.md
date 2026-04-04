@@ -2,7 +2,7 @@
 
 ### *Raise your own AI trader from scratch.*
 
-**AI-Powered Trading Desktop IDE** &nbsp; ![beta](https://img.shields.io/badge/v0.9.0-beta-orange)
+**AI-Powered Trading Desktop IDE** &nbsp; ![beta](https://img.shields.io/badge/v0.9.1-beta-orange)
 
 > **Beta Release** = Some features may have bugs. Please report issues via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues).
 
@@ -22,7 +22,7 @@
 
 | Version | Windows (x64) | macOS | Release Notes |
 |---------|--------------|-------|---------------|
-| v0.9.0-beta | [SandClaw_0.9.0_x64-setup.exe](https://github.com/kokogo100/sandclaw-releases/releases/download/v0.9.0/SandClaw_0.9.0_x64-setup.exe) | Coming soon | [Release Notes](https://github.com/kokogo100/sandclaw-releases/releases/tag/v0.9.0) |
+| v0.9.1-beta | [SandClaw_0.9.1_x64-setup.exe](https://github.com/kokogo100/sandclaw-releases/releases/download/v0.9.1/SandClaw_0.9.1_x64-setup.exe) | Coming soon | [Release Notes](https://github.com/kokogo100/sandclaw-releases/releases/tag/v0.9.1) |
 
 > macOS version will be added when there is sufficient user demand. Request via [GitHub Issues](https://github.com/kokogo100/sandclaw-releases/issues).
 
@@ -43,7 +43,7 @@ This is normal for new applications without a paid code signing certificate (~$3
 ## Installation
 
 1. **Download** the installer above
-2. **Run** `SandClaw_0.9.0_x64-setup.exe` and follow the setup wizard
+2. **Run** `SandClaw_0.9.1_x64-setup.exe` and follow the setup wizard
 3. **Python Setup** = the app automatically installs the Python environment on first launch
 4. **Login** = sign in with GitHub or Discord
 
