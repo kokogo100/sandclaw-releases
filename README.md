@@ -18,6 +18,16 @@
 
 ---
 
+> [!CAUTION]
+> **v0.9.0 Users — Manual Update Required**
+>
+> v0.9.0 had a JWT key renewal issue. We released v0.9.1 to fix it, but discovered that **auto-update does not work from v0.9.0**.
+> v0.9.0 users must manually download and install v0.9.1 by overwriting the existing installation for future updates to work.
+>
+> ⛔ **Do NOT fully uninstall SandClaw — this will permanently delete your L4 Memory Keys. Always install by overwriting (run the installer without uninstalling first).**
+
+---
+
 ## Download
 
 | Version | Windows (x64) | macOS | Release Notes |
