@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **📢 서비스 안내 (Service Notice): 뉴스 제공 안 함 · 로컬 사용 가능 (Local Use Supported / News Feed Discontinued)**
+> - **SandClaw 데스크톱 앱(.exe) 및 로컬 브로커 플러그인 연동은 그대로 사용 가능**합니다. (The standalone desktop .exe and local broker plugins remain usable.)
+> - 외부 뉴스 수집 및 클라우드 뉴스 제공(lgoballoon.com · agalgo.com)은 **서비스 종료(Service Discontinued)**되었습니다.
+> - 공식 웹사이트 (Official Website): **[AXNli Inc. (https://axnli.com)](https://axnli.com)**
+
 # SandClaw
 
 ### *Raise your own AI trader from scratch.*
@@ -340,8 +346,9 @@ Securely stores API keys with encryption in the credential vault.
 ## Links
 
 - [Plugin Registry](https://github.com/kokogo100/sandclaw), 30+ broker plugins
-- [Community & News](https://algoballoon.com)
-- [MCP Server & API](https://ragalgo.com)
+- **Official Website**: [AXNli Inc. (https://axnli.com)](https://axnli.com)
+- ~~Community & News (lgoballoon.com)~~ — **서비스 종료 (Service Discontinued — 뉴스 제공 안 함)**
+- ~~MCP Server & API (agalgo.com)~~ — **서비스 종료 (Service Discontinued)**
 
 ---
 
